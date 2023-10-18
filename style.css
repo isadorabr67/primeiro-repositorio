@@ -1,6 +1,12 @@
 body{
-    background-color:blue;
+    background-color:brown;
 } 
+
+img{
+    width: 100%;
+}
+
+
 
 h1{
     text-align: center;
