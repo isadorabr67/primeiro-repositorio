@@ -1,5 +1,9 @@
 body{
     background-color:blue;
+} 
+
+h1{
+    text-align: center;
 }
 
 p {
@@ -7,6 +11,6 @@ p {
     font-size: 20px;
 }
 
-em strong{
+p em {
     color: red;
 }
