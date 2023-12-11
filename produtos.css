@@ -12,8 +12,8 @@ header {
 nav {
     position: absolute;
     top: 110px;
+    right: 0;
 }
-
 
 nav li {
     display: inline;
@@ -35,7 +35,7 @@ nav a:hover {
 
 .produtos {
     width: 940px;
-    margin: 0 auto;
+    margin:  0 auto;
     padding: 50px 0;
 }
 
@@ -75,7 +75,7 @@ nav a:hover {
 
 footer {
     text-align: center;
-    background: url(img/bg.jpg);
+    background: url("img/bg.jpg");
     padding: 40px 0;
 }
 
